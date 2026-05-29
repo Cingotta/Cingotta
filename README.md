@@ -4,7 +4,7 @@ Dev learning and improving.
 
 ### 🚀 About Me
 - 🔭 I’m currently working on ... Github actions ... for this readme 
-- 🌱 I’m currently learning ... n8n, aws, api's, full-stack
+- 🌱 I’m currently learning ... n8n, aws, api's, full-stack, tech support
 
 
 ### 🛠️ Tech Stack
