@@ -11,7 +11,7 @@ Dev learning and improving.
 - **Operating Systems:** Linux (Ubuntu, Debian)
 - **Languages:** HTML, CSS, JavaScript, Python, SQL, C, C++, C#, Assembly, Bash
 - **Tools & Frameworks:** Git, GitHub, VS Code, Linux Server Administration, Docker
-- 
+
 ### 📬 Connect with Me
 - [LinkedIn](in/enzo-prata-cingotta-429107352)
 
